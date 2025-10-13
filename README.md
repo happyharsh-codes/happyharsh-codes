@@ -1,6 +1,6 @@
 # Happy Harsh
 
-![d](https://visitor-badge.laobi.icu/badge?page_id=programmergaurav)
+![d](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
 <h1 align="center">⚡Hey, This is Harsh👋</h1>
 <h3 align="center">🚀 Tech Explorer | Developer | ML Enthusiast</h3>
 
