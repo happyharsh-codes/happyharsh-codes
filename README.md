@@ -1,17 +1,10 @@
 # Happy Harsh
+###⚡Hey, This is Harsh👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe!;I+build+bots,+webs+and+experiments;Always+learning+something+new!;Let's+connect+and+create!+💫" />
+</p>
 
 ![d](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
-<h1 align="center">⚡Hey, This is Harsh👋</h1>
-<h3 align="center">🚀 Tech Explorer | Developer | ML Enthusiast</h3>
-
-#
-
-# 🧠 About Me
-💡 Always curious about how things work — from pixels to particles.  
-🛠️ Building cool stuff, automating ideas, and exploring tech frontiers.  
-🔥 Currently diving deep into **AI**, **Discord bots**, and **interactive web experiences**.  
-🎯 Goal: Machine Learning .
-
 #
 
 # ⚙️ Tech Stack
@@ -47,14 +40,6 @@
 </p>
 
 #
-
-# 🌀 Live Typing Animation
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe!;I+build+bots,+webs+and+experiments;Always+learning+something+new!;Let's+connect+and+create!+💫" />
-</p>
-
-#
-
 # 🧩 Repositories Worth Checking
 <p align="center">
   <a href="https://github.com/happyharsh-codes?tab=repositories">
@@ -63,6 +48,5 @@
 </p>
 
 #
-
 <h3 align="center"> ⚒️ Under construction 🏗️ - 🚧 stay tuned⚡</h3>
 
