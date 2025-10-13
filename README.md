@@ -1,7 +1,5 @@
 # Happy Harsh ![d](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
 
-# ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=⚡+Hey,+This+is+Harsh+👋;Welcome+to+my+Digital+Universe!;Let's+connect+and+create!+💫" />
 </p>
