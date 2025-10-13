@@ -1,23 +1,11 @@
 # Happy Harsh ![d](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
 
+# ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
+
 <p align="center">
-  <svg viewBox="0 0 800 100">
-    <text x="50%" y="50%" dy=".35em" text-anchor="middle"
-      style="fill: url(#gradient); font-size: 40px; font-family: 'Fira Code', monospace;">
-      ⚡ Hey, This is Harsh 👋
-    </text>
-    <defs>
-      <linearGradient id="gradient" gradientTransform="rotate(90)">
-        <stop offset="5%" stop-color="#00FFFF">
-          <animate attributeName="stop-color" values="#00FFFF;#9D00FF;#00FFFF" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="95%" stop-color="#9D00FF">
-          <animate attributeName="stop-color" values="#9D00FF;#00FFFF;#9D00FF" dur="4s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=⚡+Hey,+This+is+Harsh+👋;Welcome+to+my+Digital+Universe!;Let's+connect+and+create!+💫" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe!;I+build+bots,+webs+and+experiments;Always+learning+something+new!;Let's+connect+and+create!+💫" />
 </p>
