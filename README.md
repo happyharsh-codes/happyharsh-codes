@@ -1,18 +1,13 @@
-# Happy Harsh
-###⚡Hey, This is Harsh👋
+# Happy Harsh ![d](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
+<h2 align="center">⚡Hey, This is Harsh👋<h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe!;I+build+bots,+webs+and+experiments;Always+learning+something+new!;Let's+connect+and+create!+💫" />
 </p>
-
-![d](https://visitor-badge.laobi.icu/badge?page_id=happyharsh-codes)
-#
 
 # ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,discord,html,css,cpp,git,vscode,figma&perline=6" />
 </p>
-
-#
 
 # 🚀 My Stats
 <p align="center">
@@ -23,8 +18,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=happyharsh-codes&theme=react-dark&hide_border=true&area=true" />
 </p>
-
-#
 
 # 🌐 Connect With Me
 <p align="center">
@@ -39,7 +32,6 @@
   </a>
 </p>
 
-#
 # 🧩 Repositories Worth Checking
 <p align="center">
   <a href="https://github.com/happyharsh-codes?tab=repositories">
@@ -47,6 +39,5 @@
   </a>
 </p>
 
-#
 <h3 align="center"> ⚒️ Under construction 🏗️ - 🚧 stay tuned⚡</h3>
 
