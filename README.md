@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
   </a>
   <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" title="Discord.py">
-    <img src="https://i.namu.wiki/i/Bmws3Lut9SPDLijBh6RUMz9VtYxjrmXWjlZBF2dgeTYMOGAKntfH1VQnuinzwv7fmy2xoik3csUhyqrchSyKmQ.webp" width="48" height="48" alt="Discord.py" />
+    <img src="https://i.namu.wiki/i/Bmws3Lut9SPDLijBh6RUMz9VtYxjrmXWjlZBF2dgeTYMOGAKntfH1VQnuinzwv7fmy2xoik3csUhyqrchSyKmQ.webp" width="48" height="48" alt="Discord.py" borderradius="5%"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
