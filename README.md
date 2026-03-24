@@ -63,7 +63,7 @@
   <a href="https://github.com/happyharsh-codes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://discord.gg/SVmpbpf9H7" target="_blank">
+  <a href="https://discord.gg/Px58tW46bm" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
